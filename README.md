@@ -114,4 +114,5 @@ A short video without editing from drone perspective:
 
 ## Drone simulators what I used:
 - [Uncrashed: FPV Drone Simulator](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)
-- 
+- [FPV Freerider](https://store.steampowered.com/app/813530/FPV_Freerider_Recharged/)
+- [DRL The Drone Racing League Simulator](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)
