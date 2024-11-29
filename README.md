@@ -108,9 +108,16 @@ Drone start:
 
 <img src="videos/first_flight.gif" alt="SuccessfulFlight" width="200">
 
-A short video without editing from drone perspective:
+A few shots from drone perspective:
 
-<img src="videos/normal_flight.gif" alt="NormalFlight" width="500">
+<img src="videos/part1.gif" alt="Part1" width="500">
+
+
+<img src="videos/part2.gif" alt="Part2" width="500">
+
+
+<img src="videos/part3.gif" alt="Part3" width="500">
+
 
 ## Drone simulators what I used:
 - [Uncrashed: FPV Drone Simulator](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)
